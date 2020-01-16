@@ -24,12 +24,9 @@
 * Norway
 * Poland
 * Portugal
-* Russia
 * Singapore
 * Spain
 * Sweden
 * Switzerland
-* Turkey
-* Ukraine
 * United Kingdom
 * United States
